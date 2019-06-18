@@ -5,7 +5,7 @@
 # Modules
 
 - npm i discord.js
-- npm i mn
+- npm i ms
 - npm i fs
 
 # File
