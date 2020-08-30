@@ -20,7 +20,7 @@ You can now get strike records from this user by a JSON file.
 - JAVASCRIPT FILES
 
 These files need to be insert inside your commands file.
-You can find the commands file by follow this link : https://github.com/Nightcore3996/Commands-file
+You can find the commands file by follow this link : https://github.com/Shedhatch/Commands-file
 
 # Commands
 
